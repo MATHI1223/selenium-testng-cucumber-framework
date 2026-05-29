@@ -1,0 +1,26 @@
+# Selenium TestNG Cucumber Framework
+
+## Technologies
+
+- Selenium
+- Java
+- Maven
+- TestNG
+- Cucumber
+- Apache POI
+- Extent Reports
+- Jenkins
+- GitHub Actions
+
+## Features
+
+- Cross Browser Testing
+- Parallel Execution
+- Data Driven Framework
+- Screenshot on Failure
+- Retry Failed Tests
+- Professional Reports
+
+## Run Project
+
+mvn clean test
